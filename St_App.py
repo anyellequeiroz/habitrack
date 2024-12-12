@@ -49,7 +49,7 @@ with tab2:
         st.markdown("<h2 style='text-align: center; color: black;'>Pedro </h2>",
                     unsafe_allow_html=True)
 
-        image = Image.open('/home/anyelle/code/anyellequeiroz/habitrack/pedro.png')
+        image = Image.open('pedro.png')
         st.image(image, width=200)
 
         st.markdown('**Pets-**  Doggie :dog:')
@@ -65,7 +65,7 @@ with tab2:
         st.markdown("<h2 style='text-align: center; color: black;'>Sarah </h2>",
                     unsafe_allow_html=True)
 
-        image = Image.open('/home/anyelle/code/anyellequeiroz/habitrack/sarah.jpg')
+        image = Image.open('sarah.jpg')
         st.image(image, width=150)
 
         st.markdown('**Pets-**  Frenchie :cat:')
