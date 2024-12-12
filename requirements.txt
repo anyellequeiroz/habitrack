@@ -2,4 +2,4 @@ numpy
 joblib
 streamlit
 scikit-learn
-PIL
+pillow
